@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main (void){
-    int n1, n2, opc, resultado;
+    int opc, resultado;
+    double n1, n2;
     cout <<"Ingresa el numero de la operacion que deseas realizar\n";
     cout <<"1- Suma \n";
     cout <<"2- Resta \n";
