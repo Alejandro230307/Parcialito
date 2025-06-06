@@ -35,9 +35,9 @@ int main (void){
         cin >> resultado;
         break;
     case 4:
-        cout <<"Ingresa el primer valor que deseas sumar\n";
+        cout <<"Ingresa el primer valor que deseas dividir\n";
         cin >> n1;
-        cout <<"Ingrese el segundo valor que deseas sumar\n";
+        cout <<"Ingrese el segundo valor que deseas dividir\n";
         cin >> n2;
         cout <<"La suma de sus valores es: " << n1 / n2 <<"\n";
         cin >> resultado;
