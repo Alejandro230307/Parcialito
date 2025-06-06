@@ -16,11 +16,11 @@ int main (void){
     }
     else if(n2 >  n1 && n2 <= 100)
     {
-        cout <<"Su segundo valor " << n2 << " Es mas cercano a 100 que su segundo valor \n";
+        cout <<"Su segundo valor " << n2 << " Es mas cercano a 100 que su primer valor \n";
     }
     else 
     {
-        cout <<"Su segundo valor " << n2 << " Es mas cercano a 100 que su segundo valor \n";
+        cout <<"Su segundo valor " << n2 << " Es mas cercano a 100 que su primer valor \n";
     }
 
     return 0;
