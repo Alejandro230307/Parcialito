@@ -17,8 +17,5 @@ int main( void ){
          cout <<"Su entrada tendia un precio de 10 dolares americanos de los estados unidos de america \n";
     }
 
-    
-
-
     return 0;
 }
